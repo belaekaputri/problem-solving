@@ -18,7 +18,7 @@ Sample Output
 4
 
 Explanation
-If you have 26 pieces of fruit, you have 143 apples, which makes 4 pies, and
+If you have 26 pieces of fruit, you have 13 apples, which makes 4 pies, and
 leaves one apple pies that you can make
 */
 #include <iostream>
