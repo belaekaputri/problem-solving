@@ -44,5 +44,6 @@ Public class Program{
         }else{
           description= "eat them yourself";
         }
+        System.out.println(description);
     }
 }

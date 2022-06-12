@@ -42,6 +42,6 @@ int main(){
         }else{
           description= "eat them yourself";
         }
-    cout<<ket;
+    cout<<description;
     return 0;
 }
